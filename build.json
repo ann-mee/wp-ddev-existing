@@ -1,0 +1,24 @@
+{
+    "core": {
+        "download": {
+            "version": "6.2.2",
+            "locale": "en_US"
+        }
+    },
+    "plugins": {
+        "contact-form-7": {
+            "version": "5.7.7"
+        },
+        "redirection": {
+            "version": "5.3.10"
+        },
+        "wordpress-seo": {
+            "version": "20.12"
+        }
+    },
+    "themes": {
+        "neve": {
+            "version": "3.6.5"
+        }
+    }
+}
